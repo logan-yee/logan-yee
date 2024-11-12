@@ -1,4 +1,4 @@
-A Software Engineering student at OTU
+A Software Engineering Student at OTU
 
 <!---
 logan-yee/logan-yee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
